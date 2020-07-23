@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "defaultSchema": "SALES",
+  "schemas": [
+    {
+      "name": "SALES",
+      "type": "custom",
+      "factory": "com.objcoding.calcite.csv.translate.CsvSchemaFactory",
+      "operand": {
+        "directory": "sales",
+        "flavor": "TRANSLATABLE"
+      }
+    }
+  ]
+}
