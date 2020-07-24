@@ -318,7 +318,7 @@ public Class getElementType() {
 
 一图理解 Bindable 在 calcite 中的地位：
 
-// TODO
+![](https://gitee.com/objcoding/md-picture/raw/master/img/20200724131222.png)
 
 
 
